@@ -1,4 +1,3 @@
-/* Enes Yeşilyurt 180106109027 */
 #include<stdio.h>
 int main(){
 	int n,m,K,B;
